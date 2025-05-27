@@ -7,4 +7,4 @@ just modified " README.md "
 <br>
 and added modified file in Working directory to the Git staging area
 <br>
-Committed staged 
+Committed staged rec 
